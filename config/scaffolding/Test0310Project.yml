@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/Hariharan-SV-IBM
   gitUsername: Hariharan-SV-IBM
   gitBranch: main
+- name: TPP01
+  gitServerName: remoteGit
+  gitUrl: https://github.com/Hariharan-SV-IBM
+  gitUsername: Hariharan-SV-IBM
+  gitBranch: master
