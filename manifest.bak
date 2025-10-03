@@ -12,10 +12,13 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <null name="build"/>
+  <value name="build">1</value>
   <null name="description"/>
   <value name="created_date">03-10-2025 04:22:27 GMT</value>
   <null name="extendedProperties"/>
-  <value name="target_server_version">11.1.0.0</value>
+  <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
+  <value name="lastUpdated">2025-10-03T04:22:29.867355571Z</value>
+  <value name="wmProjectId">fl3fd4a15cd52a54f0f175a5</value>
+  <value name="creator">Hariharan SV</value>
 </Values>
